@@ -50,59 +50,19 @@ const xero = {
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lxrdxe7o&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f793&icon_color=00f793&text_color=c9d1d9"/>
-
 <!-- GitHub Streak Stats -->
-<img height="180em" src="https://streak-stats.demolab.com?user=lxrdxe7o&theme=tokyonight&hide_border=true&background=0d1117&ring=00f793&fire=00f793&currStreakLabel=00f793&sideNums=00f793&currStreakNum=00f793&dates=c9d1d9&sideLabels=c9d1d9"/>
+<img src="https://streak-stats.demolab.com?user=lxrdxe7o&theme=tokyonight&hide_border=true&background=0d1117&ring=00f793&fire=00f793&currStreakLabel=00f793&sideNums=00f793&currStreakNum=00f793&dates=c9d1d9&sideLabels=c9d1d9" alt="GitHub Streak Stats" width="100%"/>
 
-</div>
-
-<div align="center">
-
-<!-- Most Used Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxrdxe7o&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f793&text_color=c9d1d9&langs_count=8"/>
-
-<!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lxrdxe7o&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f793&line=00f793&point=c9d1d9&area=true&area_color=00f793" width="100%"/>
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lxrdxe7o&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
 </div>
 
 ---
 
 ### 🚀 Featured Projects
 
-<div align="center">
-
-<!-- KrakenVim -->
-<a href="https://github.com/lxrdxe7o/KrakenVim">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lxrdxe7o&repo=KrakenVim&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f793&icon_color=00f793&text_color=c9d1d9" />
-</a>
-
-<!-- dotfiles -->
-<a href="https://github.com/lxrdxe7o/dotfiles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lxrdxe7o&repo=dotfiles&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f793&icon_color=00f793&text_color=c9d1d9" />
-</a>
-
-<!-- tora-neko-311 -->
-<a href="https://github.com/lxrdxe7o/tora-neko-311">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lxrdxe7o&repo=tora-neko-311&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f793&icon_color=00f793&text_color=c9d1d9" />
-</a>
-
-<!-- shiro-nekoo-115 -->
-<a href="https://github.com/lxrdxe7o/shiro-nekoo-115">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lxrdxe7o&repo=shiro-nekoo-115&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f793&icon_color=00f793&text_color=c9d1d9" />
-</a>
-
-</div>
+**[KrakenVim](https://github.com/lxrdxe7o/KrakenVim)** - A based Nvim config
+**[dotfiles](https://github.com/lxrdxe7o/dotfiles)** - My current collection of dotfiles managed with GNU Stow
+**[tora-neko-311](https://github.com/lxrdxe7o/tora-neko-311)** - Quantum-Secure Airline Booking System
+**[shiro-nekoo-115](https://github.com/lxrdxe7o/shiro-nekoo-115)** - An 'ordinary' Hospital Management System (HMS)
 
 ---
 
