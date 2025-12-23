@@ -133,20 +133,6 @@ const xero = {
 
 ---
 
-### 📊 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lxrdxe7o&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f793&text_color=c9d1d9&layout=compact" alt="Wakatime stats"/>
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxrdxe7o/lxrdxe7o/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lxrdxe7o/lxrdxe7o/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lxrdxe7o/lxrdxe7o/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
 ### 💭 Dev Quote
 
 <div align="center">
@@ -155,21 +141,10 @@ const xero = {
 
 ---
 
-### 🎵 Spotify Playing
+### 📊 Contribution Calendar
 
 <div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k6xxmxcnn7iih2zi6hfohpknca&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00f793&bar_color_cover=true" alt="Spotify Now Playing"/>
-</div>
-
----
-
-<div align="center">
-
-### 📈 Quick Stats
-
-<!-- Custom Metrics SVG -->
-<img src="https://metrics.lecoq.io/lxrdxe7o?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&achievements=1&notable=1&discussions=1&followup=1&lines=1&repositories=1&stars=1&habits=1&activity=1&code=1&stackoverflow=1&tweets=1&posts=1&rss=1&music=1&pagespeed=1&stock=1&screenshot=1&fortune=1&16personalities=1&poopmap=1&calendar=1&nightscout=1&wakatime=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&discussions.categories=true&followup.sections=repositories&followup.indepth=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars.limit=4&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FDhaka&config.octicon=true&config.display=large&config.animated=true" alt="Metrics" width="100%"/>
-
+  <img src="https://ghchart.rshah.org/00f793/lxrdxe7o" alt="GitHub Contribution Chart" width="100%"/>
 </div>
 
 ---
