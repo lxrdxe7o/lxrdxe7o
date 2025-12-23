@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=xero%20%7C%20lxrdxe7o&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Avid%20Linux%20Enthusiast%20%7C%20On%20The%20Grind&descSize=16&descAlignY=51" width="100%"/>
+<!-- Animated Header - Cyberpunk Samurai Style -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF006E,50:8338EC,100:00F5FF&height=200&section=header&text=xero&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=50&desc=⚡%20Digital%20Ronin%20%7C%20Code%20Samurai%20⚡&descSize=20&descAlignY=70&stroke=00F5FF&strokeWidth=2" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -187,7 +187,7 @@ const xero = {
 
 </div>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<!-- Footer - Cyberpunk Samurai Style -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F5FF,50:8338EC,100:FF006E&height=120&section=footer" width="100%"/>
 
 </div>
