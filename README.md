@@ -59,10 +59,10 @@ const xero = {
 
 ### 🚀 Featured Projects
 
-**[KrakenVim](https://github.com/lxrdxe7o/KrakenVim)** - A based Nvim config
-**[dotfiles](https://github.com/lxrdxe7o/dotfiles)** - My current collection of dotfiles managed with GNU Stow
-**[tora-neko-311](https://github.com/lxrdxe7o/tora-neko-311)** - Quantum-Secure Airline Booking System
-**[shiro-nekoo-115](https://github.com/lxrdxe7o/shiro-nekoo-115)** - An 'ordinary' Hospital Management System (HMS)
+- **[KrakenVim](https://github.com/lxrdxe7o/KrakenVim)** - A based Nvim config
+- **[dotfiles](https://github.com/lxrdxe7o/dotfiles)** - My current collection of dotfiles managed with GNU Stow
+- **[tora-neko-311](https://github.com/lxrdxe7o/tora-neko-311)** - Quantum-Secure Airline Booking System
+- **[shiro-nekoo-115](https://github.com/lxrdxe7o/shiro-nekoo-115)** - An 'ordinary' Hospital Management System (HMS)
 
 ---
 
@@ -89,14 +89,6 @@ const xero = {
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="tmux"/>
 
-</div>
-
----
-
-### 💭 Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote_category=programming" alt="Dev Quote"/>
 </div>
 
 ---
