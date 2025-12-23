@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header - Cyberpunk Samurai Style -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF006E,50:8338EC,100:00F5FF&height=200&section=header&text=xero&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=50&desc=⚡%20Digital%20Ronin%20%7C%20Code%20Samurai%20⚡&descSize=20&descAlignY=70&stroke=00F5FF&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF006E,50:8338EC,100:00F5FF&height=200&section=header&text=xero&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=50&stroke=00F5FF&strokeWidth=2" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
