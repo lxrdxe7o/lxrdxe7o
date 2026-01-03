@@ -124,14 +124,6 @@ const xero = {
 
 ---
 
-### 💭 Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote_category=programming" alt="Dev Quote"/>
-</div>
-
----
-
 ### 📊 Contribution Calendar
 
 <div align="center">
