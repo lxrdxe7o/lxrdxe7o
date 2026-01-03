@@ -37,10 +37,10 @@ const xero = {
         os: ["Arch Linux", "NixOS", "Debian"],
         editors: ["Neovim", "VSCode"],
         tools: ["GNU Stow", "tmux", "git", "Docker"],
-        currentFocus: "Quantum-secure systems & Linux optimization"
+        currentFocus: "Learning and building new things, perfecting my craft"
     },
-    currentProject: "KrakenVim - A based Nvim config",
-    funFact: "I manage my entire system with dotfiles and GNU Stow 🚀"
+    currentProject: "KrakenVim, DeadDrop",
+    funFact: "I manage my entire system (Arch + Hyprland) with dotfiles and GNU Stow ✨"
 };
 ```
 
