@@ -50,52 +50,17 @@ const xero = {
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lxrdxe7o&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f793&icon_color=00f793&text_color=c9d1d9"/>
-
-<!-- GitHub Streak Stats -->
-<img height="180em" src="https://streak-stats.demolab.com?user=lxrdxe7o&theme=tokyonight&hide_border=true&background=0d1117&ring=00f793&fire=00f793&currStreakLabel=00f793&sideNums=00f793&currStreakNum=00f793&dates=c9d1d9&sideLabels=c9d1d9"/>
 
 </div>
 
 <div align="center">
 
-<!-- Most Used Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxrdxe7o&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f793&text_color=c9d1d9&langs_count=8"/>
 
 <!-- GitHub Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lxrdxe7o&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f793&line=00f793&point=c9d1d9&area=true&area_color=00f793" width="100%"/>
 
 </div>
 
-
-### 🚀 Featured Projects
-
-<div align="center">
-
-<!-- KrakenVim -->
-<a href="https://github.com/lxrdxe7o/KrakenVim">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lxrdxe7o&repo=KrakenVim&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f793&icon_color=00f793&text_color=c9d1d9" />
-</a>
-
-<!-- dotfiles -->
-<a href="https://github.com/lxrdxe7o/dotfiles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lxrdxe7o&repo=dotfiles&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f793&icon_color=00f793&text_color=c9d1d9" />
-</a>
-
-<!-- tora-neko-311 -->
-<a href="https://github.com/lxrdxe7o/tora-neko-311">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lxrdxe7o&repo=tora-neko-311&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f793&icon_color=00f793&text_color=c9d1d9" />
-</a>
-
-<!-- shiro-nekoo-115 -->
-<a href="https://github.com/lxrdxe7o/shiro-nekoo-115">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lxrdxe7o&repo=shiro-nekoo-115&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f793&icon_color=00f793&text_color=c9d1d9" />
-</a>
-
-</div>
-
----
 
 ### 🛠️ Tech Stack & Tools
 
@@ -136,12 +101,12 @@ const xero = {
 
 ### 🤝 Let's Connect!
 
-**Open to collaborations, interesting projects, and tech discussions!**
+**Open to collaborations, projects, and tech discussions!**
 
 [![Discord](https://img.shields.io/badge/Let's_Chat-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/lxrdxe7o)
 [![HackerRank](https://img.shields.io/badge/Solve_Together-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/lxrdxe7o)
 
-**"The best way to predict the future is to invent it."** - Alan Kay
+
 
 </div>
 
