@@ -98,11 +98,4 @@ const xero = {
 [![Discord](https://img.shields.io/badge/Let's_Chat-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/lxrdxe7o)
 [![HackerRank](https://img.shields.io/badge/Solve_Together-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/lxrdxe7o)
 
-
-
-</div>
-
-<!-- Footer - Cyberpunk Samurai Style -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F5FF,50:8338EC,100:FF006E&height=120&section=footer" width="100%"/>
-
 </div>
