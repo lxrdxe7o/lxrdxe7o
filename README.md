@@ -89,14 +89,6 @@ const xero = {
 
 ---
 
-### 📊 Contribution Calendar
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/00f793/lxrdxe7o" alt="GitHub Contribution Chart" width="100%"/>
-</div>
-
----
-
 <div align="center">
 
 ### 🤝 Let's Connect!
