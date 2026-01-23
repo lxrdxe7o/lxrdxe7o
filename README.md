@@ -55,6 +55,8 @@ const xero = {
 
 <div align="center">
 
+<!-- WakaTime Stats -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=lxrdxe7o&theme=transparent&hide_border=true&bg_color=0d1117&title_color=00f793&text_color=c9d1d9&icon_color=00f793&layout=compact" alt="WakaTime Stats"/>
 
 <!-- GitHub Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lxrdxe7o&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f793&line=00f793&point=c9d1d9&area=true&area_color=00f793" width="100%"/>
