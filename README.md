@@ -29,18 +29,19 @@
 
 ```typescript
 const xero = {
-    location: "Dhaka, Bangladesh 🇧🇩",
-    pronouns: "he/him",
-    code: ["TypeScript", "Lua", "Java", "PHP", "C", "Bash"],
-    askMeAbout: ["Linux", "Neovim", "dotfiles", "automation", "open-source"],
-    technologies: {
-        os: ["Arch Linux", "NixOS", "Debian"],
-        editors: ["Neovim", "VSCode"],
-        tools: ["GNU Stow", "tmux", "git", "Docker"],
-        currentFocus: "Learning and building new things, perfecting my craft"
-    },
-    currentProject: "KrakenVim, DeadDrop",
-    funFact: "I manage my entire system (Arch + Hyprland) with dotfiles and GNU Stow ✨"
+  location: "Dhaka, Bangladesh 🇧🇩",
+  pronouns: "he/him",
+  code: ["TypeScript", "Lua", "Java", "PHP", "C", "Bash"],
+  askMeAbout: ["Linux", "Neovim", "dotfiles", "automation", "open-source"],
+  technologies: {
+    os: ["Arch Linux", "NixOS", "Debian"],
+    editors: ["Neovim", "VSCode"],
+    tools: ["GNU Stow", "tmux", "git", "Docker"],
+    currentFocus: "Learning and building new things, perfecting my craft",
+  },
+  currentProject: "KrakenVim, DeadDrop",
+  funFact:
+    "I manage my entire system (Arch + Hyprland) with dotfiles and GNU Stow ✨",
 };
 ```
 
@@ -50,19 +51,17 @@ const xero = {
 
 <div align="center">
 
-
 </div>
 
 <div align="center">
 
 <!-- WakaTime Stats -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=lxrdxe7o&theme=transparent&hide_border=true&bg_color=0d1117&title_color=00f793&text_color=c9d1d9&icon_color=00f793&layout=compact" alt="WakaTime Stats"/>
+<figure><embed src="https://wakatime.com/share/@lxrdxe7o/a300c8e6-27b6-48e8-b964-a25cc919d684.svg"></embed></figure>
 
 <!-- GitHub Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lxrdxe7o&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f793&line=00f793&point=c9d1d9&area=true&area_color=00f793" width="100%"/>
 
 </div>
-
 
 ### 🛠️ Tech Stack & Tools
 
