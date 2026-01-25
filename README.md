@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header - Cyberpunk Samurai Style -->
-<img src="./xero.png" alt="logo" width="80%"/>
+<img src="./xero.png" alt="logo" width="70%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
