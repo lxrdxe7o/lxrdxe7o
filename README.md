@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./xero.png" alt="logo" width="70%"/>
+<<!--<img src="./xero.png" alt="logo" width="70%"/>-->
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F793&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Crafting+elegant+solutions+in+code;Full-Stack+Web+Development;Linux+%7C+Open+Source+%7C+Local+AI;" alt="Typing SVG" />
@@ -9,10 +9,13 @@
 <br/>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/ishrafulhaque">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://discord.com/users/lxrdxe7o">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/lxrdxe7o">
+  <a href="https://www.hackerrank.com/profile/ishrak7106">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=lxrdxe7o&style=for-the-badge&color=blueviolet" alt="Profile views"/>
@@ -28,24 +31,62 @@
 const xero = {
   location: "Dhaka, Bangladesh 🇧🇩",
   pronouns: "he/him",
-  capabilities: ["Full-Stack Web Development", "System Administration", "Local AI Integration"],
+  capabilities: [
+    "Full-Stack Web Development",
+    "System Administration",
+    "Local AI Integration",
+  ],
   askMeAbout: [
     "Full-Stack Architecture",
-    "Arch Linux & Hyprland", 
-    "Local AI & Agentic Workflows", 
-    "Sysadmin & Self-hosting", 
-    "Cybersecurity"
+    "Arch Linux & Hyprland",
+    "Local AI & Agentic Workflows",
+    "Sysadmin & Self-hosting",
+    "Cybersecurity",
   ],
   technologies: {
-    languages: ["TypeScript", "Rust", "C++", "Python", "PHP", "Lua", "Java", "C", "Bash"],
+    languages: [
+      "TypeScript",
+      "Rust",
+      "C++",
+      "Python",
+      "PHP",
+      "Lua",
+      "Java",
+      "C",
+      "Bash",
+    ],
     web: ["Next.js", "React", "Svelte", "Astro", "Tailwind CSS", "Node.js"],
-    databases_and_orms: ["PostgreSQL", "MariaDB", "Neon", "Supabase", "Cloudflare D1", "Drizzle ORM"],
+    databases_and_orms: [
+      "PostgreSQL",
+      "MariaDB",
+      "Neon",
+      "Supabase",
+      "Cloudflare D1",
+      "Drizzle ORM",
+    ],
     cloud_and_serverless: ["Vercel", "Cloudflare Workers", "Turnstile"],
     package_managers: ["npm", "pnpm", "Yarn", "Bun", "Cargo"],
-    os_and_desktop: ["Arch Linux", "Fedora", "NixOS", "Debian", "Hyprland", "GNOME"],
-    devops_and_self_hosted: ["Docker", "Podman", "Traefik", "Nginx", "Coolify", "Dolibarr", "Invoice Ninja", "ZFS", "Btrfs"],
+    os_and_desktop: [
+      "Arch Linux",
+      "Fedora",
+      "NixOS",
+      "Debian",
+      "Hyprland",
+      "GNOME",
+    ],
+    devops_and_self_hosted: [
+      "Docker",
+      "Podman",
+      "Traefik",
+      "Nginx",
+      "Coolify",
+      "Dolibarr",
+      "Invoice Ninja",
+      "ZFS",
+      "Btrfs",
+    ],
     ai_and_automation: ["Ollama", "LangGraph", "OpenClaw", "n8n"],
-    cli_and_tools: ["Neovim", "GNU Stow", "tmux", "git"]
+    cli_and_tools: ["Neovim", "GNU Stow", "tmux", "git"],
   },
   funFact:
     "I manage my entire system (Arch + Hyprland) with dotfiles and GNU Stow, and I'm a huge advocate for FOSS ✨",
@@ -148,6 +189,7 @@ const xero = {
 **Open to collaborations, open-source projects, and tech discussions!**
 
 [![Discord](https://img.shields.io/badge/Let's_Chat-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/lxrdxe7o)
-[![HackerRank](https://img.shields.io/badge/Solve_Together-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/lxrdxe7o)
+[![LinkedIn](https://img.shields.io/badge/Connect-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishrafulhaque)
+[![HackerRank](https://img.shields.io/badge/Solve_Together-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/ishrak7106)
 
 </div>
