@@ -28,7 +28,7 @@
 ### 👨‍💻 About Me
 
 ```typescript
-const xero = {
+const ishrak = {
   location: "Dhaka, Bangladesh 🇧🇩",
   pronouns: "he/him",
   capabilities: [
@@ -41,7 +41,6 @@ const xero = {
     "Arch Linux & Hyprland",
     "Local AI & Agentic Workflows",
     "Sysadmin & Self-hosting",
-    "Cybersecurity",
   ],
   technologies: {
     languages: [
