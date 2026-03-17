@@ -1,6 +1,6 @@
 <div align="center">
 
-<<!--<img src="./xero.png" alt="logo" width="70%"/>-->
+<!--<img src="./xero.png" alt="logo" width="70%"/>-->
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F793&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Crafting+elegant+solutions+in+code;Full-Stack+Web+Development;Linux+%7C+Open+Source+%7C+Local+AI;" alt="Typing SVG" />
