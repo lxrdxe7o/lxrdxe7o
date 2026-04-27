@@ -38,7 +38,7 @@ const ishrak = {
   ],
   askMeAbout: [
     "Full-Stack Architecture",
-    "Arch Linux & Hyprland",
+    "Linux & FOSS",
     "Local AI & Agentic Workflows",
     "Sysadmin & Self-hosting",
   ],
