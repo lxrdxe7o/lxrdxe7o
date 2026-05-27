@@ -25,7 +25,7 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 ```typescript
 const ishrak = {
@@ -94,7 +94,7 @@ const ishrak = {
 
 ---
 
-### 🔥 GitHub Stats & Activity
+###  GitHub Stats & Activity
 
 <div align="center">
 
